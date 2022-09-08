@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlukeConnect_Fluke289", "FlukeConnect_Fluke289\FlukeConnect_Fluke289.csproj", "{0D6B979C-38C4-46DD-B7BB-F2E1302D796D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D6B979C-38C4-46DD-B7BB-F2E1302D796D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6B979C-38C4-46DD-B7BB-F2E1302D796D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6B979C-38C4-46DD-B7BB-F2E1302D796D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6B979C-38C4-46DD-B7BB-F2E1302D796D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B39951F6-3D4D-4414-8BBE-F5E7A3FB456A}
+	EndGlobalSection
+EndGlobal
