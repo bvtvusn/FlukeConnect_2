@@ -1,6 +1,6 @@
 # FlukeConnect_2
 Connection to Fluke multimeters through optical link. The data from the multimeter is collected and displayed on the computer.
-Can be added in the future: Logging
+Logging functionality may be added in the future.
 
 Youtube video: https://youtu.be/a9pcPl6lhEs
 
